@@ -1,0 +1,5 @@
+[
+  { "id": 100001, "name": "홍길동", "team": "SSG", "league": "KBO", "birth": "1995-01-01", "handedness": "R" },
+  { "id": 100002, "name": "김철수", "team": "LG", "league": "KBO", "birth": "1993-05-12", "handedness": "L" },
+  { "id": 100003, "name": "이영희", "team": "KT", "league": "KBO", "birth": "1998-03-21", "handedness": "R" }
+]
